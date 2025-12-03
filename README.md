@@ -1,4 +1,6 @@
 # 🖼️ IMAGE CLASSIFICATION APP  
+<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/e02b4411-2279-41ec-a4e9-6edbba4784b4" />
+
 🔥 Powered by MobileNetV2 + Custom CIFAR-10 Model
 
 📌 Python • 🚀 Streamlit • 🧠 TensorFlow • 📄 MIT License • 🟢 Active Project
