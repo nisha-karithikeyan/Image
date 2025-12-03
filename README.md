@@ -92,12 +92,11 @@ Image/
 ==========================================================================
 
 🖥️ SCREENSHOTS  
-(You can add screenshots later to showcase UI)
+<img width="1902" height="835" alt="image" src="https://github.com/user-attachments/assets/358c186f-8cae-4215-bbdd-58078cf3966e" />
 
 ==========================================================================
 
-🤝 CONTRIBUTING  
-Improvements and PRs are always welcome.  
+🤝 CONTRIBUTING    
 Feel free to fork, enhance, and send pull requests.
 
 ==========================================================================
