@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model weights
+*.h5
+*.ckpt
+*.tflite
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+venv/
+__pycache__/
+*.h5
+*.png
+*.jpg
+*.jpeg
+*.log
